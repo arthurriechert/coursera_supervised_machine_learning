@@ -1,2 +1,4 @@
 # single_input_linear_regression_model
-Made while following along Andrew Ng's Machine Learning Course Week 1
+Made following Andrew Ng's Supervised Machine Learning course on Coursera
+
+Includes every project from Week 1 to Week 3
