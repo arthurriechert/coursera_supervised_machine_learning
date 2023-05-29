@@ -1,6 +1,6 @@
 import numpy as np
 import random as rand
-import math
+import math, copy
 
 
 """
